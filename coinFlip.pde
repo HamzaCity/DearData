@@ -7,7 +7,6 @@ void setup()
   textSize(48);
   textAlign(CENTER);
  
-  // Initialise randomNumber between 0 and 2
   randomNumber = int (random(1,3));
 }
  
